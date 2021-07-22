@@ -1,16 +1,17 @@
-### Hi there 👋
+### HI THERE 👋
 
-<!--
-**SYSolakov20/SYSolakov20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Soner Solakov and it looks like you are looking at my READMЕ 😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let me tell you a bit about myself ↓
+
+- 🎓 I'm currently studying coding at VSCPI. 
+- 🔭 I’m looking forward to start my own business.
+- 🎥 I have interest in photography and web design.
+- 📫 Get in touch with me - SYSolakov20@codingburgas.bg.
+
+
+
+
+
+
