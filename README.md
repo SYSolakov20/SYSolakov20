@@ -11,7 +11,7 @@ Let me tell you a bit about myself ↓
 - 📫 Get in touch with me - SYSolakov20@codingburgas.bg.
 _________________________________________________________
 
-<img align="left" height="300" width="1000"  alt="" src="giphy.gif" />
+<img align="left" height="300" width="1000"  alt="" src="city.gif" />
 
 
 
