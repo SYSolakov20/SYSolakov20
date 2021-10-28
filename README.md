@@ -1,36 +1,48 @@
-### HI THERE 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soner</h1>
 
-My name is Soner Solakov and it looks like you are looking at my READMЕ 😃
+## 🙋‍♂️ Let me tell you a bit about myself ↓
 
-Let me tell you a bit about myself ↓
+- 🎓 I'm currently studying coding at VSCPI.
 
-- 🎓 I'm currently studying coding at VSCPI. 
 - 🔭 I’m looking forward to start my own business.
+
 - 🎥 I have interest in photography and web design.
+
 - 📫 Get in touch with me - SYSolakov20@codingburgas.bg.
-_________________________________________________________
 
-<img align="left" height="300" width="1000"  alt="" src="city.gif" />
+## 🚀 Languages and tools:
 
-<br>
-
-<hr>
-
-
-
-### Languages and Tools ↓
-
-<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
-<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
-<code><img alt="CPP" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" ></code>
-<code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
-
-<hr>
-
-
-
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a></a>
+   <a href="https://www.w3schools.com/css/" target="_blank"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a></a>
+  
+  <br>
+  
+  <br/>
+    <a href="https://github.com/Sysolakov20/github-readme-stats"><img alt="Soner Solakov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sysolakov20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  <br/>
+  
+  
+  <hr>
 
 
+<a href="https://github.com/Sysolakov20/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sysolakov20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
+  
+  
+## Connect with me:
+<p align="left">
+<a href = "https://twitter.com/SolakovSoner"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/sonersolakov/?hl=bg"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/soner.solakov/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+
+</p>
+ 
+</p>
