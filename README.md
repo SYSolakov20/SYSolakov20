@@ -32,7 +32,7 @@
   <hr>
 
 
-<a href="https://github.com/Sysolakov20/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sysolakov20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Sysolakov20/github-readme-activity-graph"><img alt="Soner Solakov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sysolakov20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
   
