@@ -1,5 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<p align="center"> 
+<a href="#"><img width="82%" height="auto"  src="https://cdn.discordapp.com/attachments/900689339179216926/993578478429552640/13055.png" height="175px"/></a>
+</p>
 <h1 align="center">Hi, I'm Soner</h1>
 
 ## 🙋‍♂️ Let me tell you a bit about myself ↓
